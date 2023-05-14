@@ -1,0 +1,30 @@
+@font-face {
+   font-family: Poppins-Light;
+   src: url(../../app-assets/fonts/Poppins-Light.ttf);
+}
+ @font-face {
+    font-family: Poppins-Regular;
+    src: url(../../app-assets/fonts/Poppins-Regular.ttf);
+ }
+ @font-face {
+    font-family: Poppins-Medium;
+    src: url(../../app-assets/fonts/Poppins-Medium.ttf);
+ }
+
+ @font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../../app-assets/fonts/Poppins-SemiBold.ttf);
+ }
+
+ @font-face {
+    font-family:Poppins-Bold ;
+    src: url(../../app-assets/fonts/Poppins-Bold.ttf);
+ }
+
+ @font-face {
+    font-family: Poppins-Black;
+    src: url(../../app-assets/fonts/Poppins-Black.ttf);
+ }
+
+
+ 
