@@ -286,9 +286,11 @@ a {
 
 /* table */
 .table {
-	border-spacing: 0px 50px !important;
+	 
 	margin-top: 100px;
 	width: 100%;
+ border-spacing: 0 1em !important;
+    border-collapse: separate;
 }
 
 table.dataTable thead .sorting:before,
@@ -310,7 +312,7 @@ table.dataTable thead>tr>th.sorting,
 }
 
 table tr {
-	border: .5px solid #d4d4d4a1;
+	/* border: .5px solid #d4d4d4a1; */
 	border-radius: 5px;
 }
 
@@ -320,6 +322,9 @@ table tr {
 	font-family: Poppins-Light;
 	text-align: left;
 	padding: 20px 30px;
+	border-top: .5px solid #d4d4d4a1;
+	border-bottom: .5px solid #d4d4d4a1;
+
 }
 
 .table tbody tr td:nth-child(4) {
