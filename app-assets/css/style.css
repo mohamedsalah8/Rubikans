@@ -291,6 +291,8 @@ a {
 	width: 100%;
  border-spacing: 0 1em !important;
     border-collapse: separate;
+ border: .5px solid #d4d4d4a1;
+
 }
 
 table.dataTable thead .sorting:before,
