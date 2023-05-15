@@ -763,6 +763,10 @@ div.dataTables_wrapper div.dataTables_filter svg {
 		flex-direction: column-reverse;
 		justify-content: center !important;
 		align-items: center !important;
+	}
+	.header_navbar .navbar .navbar-nav .nav-link {
+		paddinng:15px 0;
+	}
 }
 
 @media screen and (max-width:575px) {
