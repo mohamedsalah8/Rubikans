@@ -759,7 +759,10 @@ div.dataTables_wrapper div.dataTables_filter svg {
 	.content {
 		padding: calc(2rem + 4.45rem + 8.3rem) 2rem 0;
 	}
-
+	.containerNav {
+		flex-direction: column-reverse;
+		justify-content: center !important;
+		align-items: center !important;
 }
 
 @media screen and (max-width:575px) {
